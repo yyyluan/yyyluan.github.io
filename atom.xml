@@ -6,7 +6,7 @@
   <link href="https://yyyluan.github.io/atom.xml" rel="self"/>
   
   <link href="https://yyyluan.github.io/"/>
-  <updated>2024-03-08T15:46:55.829Z</updated>
+  <updated>2024-03-08T15:53:36.794Z</updated>
   <id>https://yyyluan.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://yyyluan.github.io/2024/03/08/HTML%E5%AD%98%E6%A1%A3/"/>
     <id>https://yyyluan.github.io/2024/03/08/HTML%E5%AD%98%E6%A1%A3/</id>
     <published>2024-03-08T14:39:48.000Z</published>
-    <updated>2024-03-08T15:46:55.829Z</updated>
+    <updated>2024-03-08T15:53:36.794Z</updated>
     
-    <content type="html"><![CDATA[<p>  对爬虫感兴趣所以简单了解了一下HTML，在这里存一下档怕日后忘掉。。</p><p>  首先是一个<strong>很好用的网站</strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element">HTML元素参考</a>，我称之为HTML字典，看完网站就能学会基础网站搭建！！！</p><p>  下面是一个我自己的<strong>基础框架</strong>示范，看了就等于会了:<br>  <img src="D:/Blog/home/source/_posts/屏幕截图1.png" alt="这是一个挂掉的截图"><br>  基于网站里面基础知识都有，在这里就根据上图来记录一些注意事项：<br>  1.<code>&lt;!DOCTYPE html&gt;</code>是该HTML的版本声明；<br>  2.<code>&lt;xxx&gt;</code>是HTML内元素的开始标签，<code>&lt;/xxx&gt;</code>是结束标签,不能落下。标签可以嵌套，要注意嵌套的顺序；<br>  3.所有元素必须放在<code>&lt;html&gt;</code>和<code>&lt;/html&gt;</code>之间，这是根元素；</p><p>  然后就是小小进阶版，如下:<br>  <img src="D:/Blog/home/source/_posts/屏幕截图2.png" alt="这是一个挂掉的截图"><br>  通过HTML制作表格表单、引入链接、增加图片…很好玩且很简单，真·快速上手。</p><p>  再说一些小知识：<br>  1.标签里加上style可以写CSS样式，这样子就可以美化表格表单（但我还没入门CSS）；<br>  2.在标签里加title后，鼠标悬停在标签上时会显示title的内容，就相当于一个文本注释；<br>  3.如果你要在源代码里面注释，请用<code>&lt;!-- --&gt;</code>；<br>  4.换行用<code>&lt;br&gt;</code>。<em>但官方提示说“不要用 <code>&lt;br&gt;</code> 来增加文本之间的行间隔；应使用 CSS margin 属性或<code>&lt;p&gt;</code> 元素”</em>，虽然这样子更规范，但是我用<code>&lt;br&gt;</code>没发现啥问题。。</p><p>  今天的<del>无用知识</del>记录就到这里，如果有朋友看到这里，现在就动手去搭建一个自己的网站吧✌:D</p>]]></content>
+    <content type="html"><![CDATA[<p>  对爬虫感兴趣所以简单了解了一下HTML，在这里存一下档怕日后忘掉。。</p><p>  首先是一个<strong>很好用的网站</strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element">HTML元素参考</a>，我称之为HTML字典，看完网站就能学会基础网站搭建！！！</p><p>  下面是一个我自己的<strong>基础框架</strong>示范，看了就等于会了:<br> <img src="D:\Blog\home\source\_posts\屏幕截图1.png" alt="挂掉的图片"><br>  基于网站里面基础知识都有，在这里就根据上图来记录一些注意事项：<br>  1.<code>&lt;!DOCTYPE html&gt;</code>是该HTML的版本声明；<br>  2.<code>&lt;xxx&gt;</code>是HTML内元素的开始标签，<code>&lt;/xxx&gt;</code>是结束标签,不能落下。标签可以嵌套，要注意嵌套的顺序；<br>  3.所有元素必须放在<code>&lt;html&gt;</code>和<code>&lt;/html&gt;</code>之间，这是根元素；</p><p>  然后就是小小进阶版，如下:<br> <img src="D:\Blog\home\source\_posts\屏幕截图2.png" alt="挂掉的图片"><br>  通过HTML制作表格表单、引入链接、增加图片…很好玩且很简单，真·快速上手。</p><p>  再说一些小知识：<br>  1.标签里加上style可以写CSS样式，这样子就可以美化表格表单（但我还没入门CSS）；<br>  2.在标签里加title后，鼠标悬停在标签上时会显示title的内容，就相当于一个文本注释；<br>  3.如果你要在源代码里面注释，请用<code>&lt;!-- --&gt;</code>；<br>  4.换行用<code>&lt;br&gt;</code>。<em>但官方提示说“不要用 <code>&lt;br&gt;</code> 来增加文本之间的行间隔；应使用 CSS margin 属性或<code>&lt;p&gt;</code> 元素”</em>，虽然这样子更规范，但是我用<code>&lt;br&gt;</code>没发现啥问题。。</p><p>  今天的<del>无用知识</del>记录就到这里，如果有朋友看到这里，现在就动手去搭建一个自己的网站吧✌:D</p>]]></content>
     
     
       
