@@ -6,7 +6,7 @@
   <link href="https://yyyluan.github.io/atom.xml" rel="self"/>
   
   <link href="https://yyyluan.github.io/"/>
-  <updated>2024-03-08T15:17:26.819Z</updated>
+  <updated>2024-03-08T15:19:25.255Z</updated>
   <id>https://yyyluan.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yyyluan.github.io/2024/03/08/HTML%E5%AD%98%E6%A1%A3/"/>
     <id>https://yyyluan.github.io/2024/03/08/HTML%E5%AD%98%E6%A1%A3/</id>
     <published>2024-03-08T14:39:48.000Z</published>
-    <updated>2024-03-08T15:17:26.819Z</updated>
+    <updated>2024-03-08T15:19:25.255Z</updated>
     
     <content type="html"><![CDATA[<p>  对爬虫感兴趣所以简单了解了一下HTML，在这里存一下档怕日后忘掉。。</p><p>  首先是一个<strong>很好用的网站</strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element">HTML元素参考</a>，我称之为HTML字典，看完网站就能学会基础网站搭建！！！</p><p>  下面是一个我自己的<strong>基础框架</strong>示范，看了就等于会了:<br>  <img src="/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-06%20221528.png" alt="alt text"><br>  基于网站里面基础知识都有，在这里就根据上图来记录一些注意事项：<br>  1.<!DOCTYPE html>是该HTML的版本声明；<br>  2.<xxx>是HTML内元素的开始标签，</xxx>是结束标签,不能落下。标签可以嵌套，要注意嵌套的顺序；<br>  3.所有元素必须放在<html>和</html>之间，这是根元素；</p><p>  然后就是小小进阶版，如下:<br>  <img src="/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202024-03-07%20220213.png" alt="alt text"><br>  通过HTML制作表格表单、引入链接、增加图片…很好玩且很简单，真·快速上手。</p><p>  再说一些小知识：<br>  1.标签里加上style可以写CSS样式，这样子就可以美化表格表单（但我还没入门CSS）；<br>  2.在标签加title，鼠标悬停在标签上时会显示title的内容，就相当于一个文本注释；<br>  3.如果你要在源代码里面注释，请用<!-- -->；<br>  4.换行用<br>。<em>但官方提示说“不要用 <br> 来增加文本之间的行间隔；应使用 CSS margin 属性或<p> 元素”</em>，虽然这样子更规范，但是我用<br>没发现啥问题。。</p><p>  今天的<del>无用知识</del>记录就到这里，如果有朋友看到这里，现在就动手去搭建一个自己的网站吧✌:D</p>]]></content>
     
