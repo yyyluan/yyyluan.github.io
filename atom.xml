@@ -6,7 +6,7 @@
   <link href="https://yyyluan.github.io/atom.xml" rel="self"/>
   
   <link href="https://yyyluan.github.io/"/>
-  <updated>2024-03-10T09:50:43.561Z</updated>
+  <updated>2024-03-13T04:18:52.977Z</updated>
   <id>https://yyyluan.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CSS存档</title>
+    <link href="https://yyyluan.github.io/2024/03/13/CSS%E5%AD%98%E6%A1%A3/"/>
+    <id>https://yyyluan.github.io/2024/03/13/CSS%E5%AD%98%E6%A1%A3/</id>
+    <published>2024-03-13T04:13:07.000Z</published>
+    <updated>2024-03-13T04:18:52.977Z</updated>
+    
+    <content type="html"><![CDATA[<p>  利用CSS可以进一步优化界面，在这里依然是推荐<strong>好用网站</strong>。<br>  <a href="https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Selectors">CSS参考</a></p><p>  在HTML我说可以用style来写CSS样式，但更正确的做法其实是另外创建CSS文件，在文件中对界面进行美化。<br>  在网站里面有详尽的CSS介绍，依旧是看了就等于会了✌<br>  今天的<del>无用知识</del>记录就到这里，如果有朋友看到这里，现在就动手去使用CSS美化自己的网站吧✌:D</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;  利用CSS可以进一步优化界面，在这里依然是推荐&lt;strong&gt;好用网站&lt;/strong&gt;。&lt;br&gt;  &lt;a href=&quot;https://developer.mozilla.org/zh-CN/docs/Learn/CSS/Building_blocks/Selector</summary>
+      
+    
+    
+    
+    <category term="一些教程" scheme="https://yyyluan.github.io/categories/%E4%B8%80%E4%BA%9B%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="无用知识" scheme="https://yyyluan.github.io/tags/%E6%97%A0%E7%94%A8%E7%9F%A5%E8%AF%86/"/>
+    
+    <category term="从零开始的爬虫生活" scheme="https://yyyluan.github.io/tags/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E7%88%AC%E8%99%AB%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>HTML存档</title>
