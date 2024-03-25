@@ -6,7 +6,7 @@
   <link href="https://yyyluan.github.io/atom.xml" rel="self"/>
   
   <link href="https://yyyluan.github.io/"/>
-  <updated>2024-03-25T09:36:01.036Z</updated>
+  <updated>2024-03-25T09:40:53.945Z</updated>
   <id>https://yyyluan.github.io/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://yyyluan.github.io/2024/03/25/JavaScript%E5%AD%98%E6%A1%A3/"/>
     <id>https://yyyluan.github.io/2024/03/25/JavaScript%E5%AD%98%E6%A1%A3/</id>
     <published>2024-03-25T09:23:18.000Z</published>
-    <updated>2024-03-25T09:36:01.036Z</updated>
+    <updated>2024-03-25T09:40:53.945Z</updated>
     
-    <content type="html"><![CDATA[<p>  一个比较好用的网站：<br>  <a href="https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript">js参考</a></p><p>  和CSS相似，在HTML中有多种方法可以调用JavaScript，比较推荐的方法有<strong>两种</strong>：<br>  一是直接使用<code>&lt;script&gt;&lt;/script&gt;</code>,在其中间添加代码；<br>  二是建立外部文件（如CSS），通过<code>&lt;script src=&quot;路径&quot;&gt;&lt;/script&gt;</code>来引用你的代码。</p><p>  怎么方便怎么来。</p><p>  在我粗略的简单入门学习之下，我觉得js就像一个缝合了python和c语法的缝合怪，并改名为<strong>java</strong>script蹭了一波java热度（开玩笑）。总之，如果有以上语言的基础，那么你可以做到几乎无痛入门js。搭配上网站的学习及一些案例了解，学起来还是蛮简单的。</p><p>  今天的<del>无用知识</del>记录就到这里，继续深入了解前端吧~</p>]]></content>
+    <content type="html"><![CDATA[<p>  一个比较好用的网站：<br>  <a href="https://developer.mozilla.org/zh-CN/docs/Learn/JavaScript">js参考</a></p><p>  和CSS相似，在HTML中有多种方法可以调用JavaScript，比较推荐的方法有<strong>两种</strong>：<br>  一是直接使用<code>&lt;script&gt;&lt;/script&gt;</code>,在其中间添加代码；<br>  二是建立外部文件（如CSS），通过<code>&lt;script src=&quot;路径&quot;&gt;&lt;/script&gt;</code>来引用你的代码。</p><p>  怎么方便怎么来。</p><p>  在我粗略的简单入门学习之下，我觉得js就像一个缝合了python和c语法的缝合怪，并改名为<strong>java</strong>script蹭了一波java热度（开玩笑）。总之，如果有以上语言的基础，那么你可以做到几乎无痛入门js。搭配上网站的学习及一些案例了解，学起来还是蛮简单的。</p><p>  到目前为止，我只是站在前端的门口瞥了一眼，看了一眼他们的介绍，并不能很好掌握知识，也还没有学习更深层次的内容。了解前端主要是出于对爬虫的好奇，于是接下来我会重拾python，然后再去更进一步学习。革命尚未成功…</p><p>  今天的<del>无用知识</del>记录就到这里，继续深入了解前端吧~</p>]]></content>
     
     
       
