@@ -123,9 +123,9 @@
     <link href="https://yyyluan.github.io/2024/03/08/HTML%E5%AD%98%E6%A1%A3/"/>
     <id>https://yyyluan.github.io/2024/03/08/HTML%E5%AD%98%E6%A1%A3/</id>
     <published>2024-03-08T14:39:48.000Z</published>
-    <updated>2024-03-10T09:50:43.561Z</updated>
+    <updated>2024-07-24T07:01:08.532Z</updated>
     
-    <content type="html"><![CDATA[<p>  对爬虫感兴趣所以简单了解了一下HTML，在这里存一下档怕日后忘掉。。</p><p>  首先是一个<strong>很好用的网站</strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element">HTML元素参考</a>，我称之为HTML字典，看完网站就能学会基础网站搭建！！！</p><p>  下面是一个我自己的<strong>基础框架</strong>示范，看了就等于会了:<br>  <img src="/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE1.png" alt="挂掉的图片"><br>  基于网站里面基础知识都有，在这里就根据上图来记录一些注意事项：<br>  1.<code>&lt;!DOCTYPE html&gt;</code>是该HTML的版本声明；<br>  2.<code>&lt;xxx&gt;</code>是HTML内元素的开始标签，<code>&lt;/xxx&gt;</code>是结束标签,不能落下。标签可以嵌套，要注意嵌套的顺序；<br>  3.所有元素必须放在<code>&lt;html&gt;</code>和<code>&lt;/html&gt;</code>之间，这是根元素；</p><p>  然后就是小小进阶版，如下:<br> <img src="/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE2.png" alt="挂掉的图片"><br>  通过HTML制作表格表单、引入链接、增加图片…很好玩且很简单，真·快速上手。</p><p>  再说一些小知识：<br>  1.标签里加上style可以写CSS样式，这样子就可以美化表格表单（但我还没入门CSS）；<br>  2.在标签里加title后，鼠标悬停在标签上时会显示title的内容，就相当于一个文本注释；<br>  3.如果你要在源代码里面注释，请用<code>&lt;!-- --&gt;</code>；<br>  4.换行用<code>&lt;br&gt;</code>。<em>但官方提示说“不要用 <code>&lt;br&gt;</code> 来增加文本之间的行间隔；应使用 CSS margin 属性或<code>&lt;p&gt;</code> 元素”</em>，虽然这样子更规范，但是我用<code>&lt;br&gt;</code>没发现啥问题。。</p><p>  今天的<del>无用知识</del>记录就到这里，如果有朋友看到这里，现在就动手去搭建一个自己的网站吧✌:D</p>]]></content>
+    <content type="html"><![CDATA[<p>  对爬虫感兴趣所以简单了解了一下HTML，在这里存一下档怕日后忘掉。。</p><p>  首先是一个<strong>很好用的网站</strong><a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML/Element">HTML元素参考</a>，我称之为HTML字典，看完网站就能学会基础网站搭建！！！</p><p>  下面是一个我自己的<strong>基础框架</strong>示范，看了就等于会了:<br>  <img src="https://github.com/yyyluan/pic/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE1.png" alt="挂掉的图片"><br>  基于网站里面基础知识都有，在这里就根据上图来记录一些注意事项：<br>  1.<code>&lt;!DOCTYPE html&gt;</code>是该HTML的版本声明；<br>  2.<code>&lt;xxx&gt;</code>是HTML内元素的开始标签，<code>&lt;/xxx&gt;</code>是结束标签,不能落下。标签可以嵌套，要注意嵌套的顺序；<br>  3.所有元素必须放在<code>&lt;html&gt;</code>和<code>&lt;/html&gt;</code>之间，这是根元素；</p><p>  然后就是小小进阶版，如下:<br> <img src="https://github.com/yyyluan/pic/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE2.png" alt="挂掉的图片"><br>  通过HTML制作表格表单、引入链接、增加图片…很好玩且很简单，真·快速上手。</p><p>  再说一些小知识：<br>  1.标签里加上style可以写CSS样式，这样子就可以美化表格表单（但我还没入门CSS）；<br>  2.在标签里加title后，鼠标悬停在标签上时会显示title的内容，就相当于一个文本注释；<br>  3.如果你要在源代码里面注释，请用<code>&lt;!-- --&gt;</code>；<br>  4.换行用<code>&lt;br&gt;</code>。<em>但官方提示说“不要用 <code>&lt;br&gt;</code> 来增加文本之间的行间隔；应使用 CSS margin 属性或<code>&lt;p&gt;</code> 元素”</em>，虽然这样子更规范，但是我用<code>&lt;br&gt;</code>没发现啥问题。。</p><p>  今天的<del>无用知识</del>记录就到这里，如果有朋友看到这里，现在就动手去搭建一个自己的网站吧✌:D</p>]]></content>
     
     
       
@@ -142,6 +142,30 @@
     <category term="无用知识" scheme="https://yyyluan.github.io/tags/%E6%97%A0%E7%94%A8%E7%9F%A5%E8%AF%86/"/>
     
     <category term="从零开始的爬虫生活" scheme="https://yyyluan.github.io/tags/%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E7%88%AC%E8%99%AB%E7%94%9F%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>shh端口修改</title>
+    <link href="https://yyyluan.github.io/2024/03/05/shh%E7%AB%AF%E5%8F%A3%E4%BF%AE%E6%94%B9/"/>
+    <id>https://yyyluan.github.io/2024/03/05/shh%E7%AB%AF%E5%8F%A3%E4%BF%AE%E6%94%B9/</id>
+    <published>2024-03-05T10:08:20.000Z</published>
+    <updated>2024-03-24T03:41:28.471Z</updated>
+    
+    <content type="html"><![CDATA[<p>  中午增加评论功能的时候，突然发现我的shh连不到GitHub了！！！试了很多个方法，最终找到一个有用的，在此存一下。<br>  <a href="https://blog.csdn.net/hjy_mysql/article/details/131596257">端口修改</a><br>  搜索大法好。</p><hr><p>  更新一下。。。在昨天我的shh连接又出了问题，由于发现问题的时间比较晚，我就没怎么管直接关机睡觉了。早上起来发现自动好了，可能是因为我的浏览器更新了或者什么什么的，，总之就是关机冷静再重启真的能解决很多问题。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;  中午增加评论功能的时候，突然发现我的shh连不到GitHub了！！！试了很多个方法，最终找到一个有用的，在此存一下。&lt;br&gt;  &lt;a href=&quot;https://blog.csdn.net/hjy_mysql/article/details/131596257&quot;&gt;端口修</summary>
+      
+    
+    
+    
+    <category term="一些教程" scheme="https://yyyluan.github.io/categories/%E4%B8%80%E4%BA%9B%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="无用知识" scheme="https://yyyluan.github.io/tags/%E6%97%A0%E7%94%A8%E7%9F%A5%E8%AF%86/"/>
     
   </entry>
   
@@ -168,30 +192,6 @@
     
     
     <category term="一切的开始" scheme="https://yyyluan.github.io/tags/%E4%B8%80%E5%88%87%E7%9A%84%E5%BC%80%E5%A7%8B/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>shh端口修改</title>
-    <link href="https://yyyluan.github.io/2024/03/05/shh%E7%AB%AF%E5%8F%A3%E4%BF%AE%E6%94%B9/"/>
-    <id>https://yyyluan.github.io/2024/03/05/shh%E7%AB%AF%E5%8F%A3%E4%BF%AE%E6%94%B9/</id>
-    <published>2024-03-05T10:08:20.000Z</published>
-    <updated>2024-03-24T03:41:28.471Z</updated>
-    
-    <content type="html"><![CDATA[<p>  中午增加评论功能的时候，突然发现我的shh连不到GitHub了！！！试了很多个方法，最终找到一个有用的，在此存一下。<br>  <a href="https://blog.csdn.net/hjy_mysql/article/details/131596257">端口修改</a><br>  搜索大法好。</p><hr><p>  更新一下。。。在昨天我的shh连接又出了问题，由于发现问题的时间比较晚，我就没怎么管直接关机睡觉了。早上起来发现自动好了，可能是因为我的浏览器更新了或者什么什么的，，总之就是关机冷静再重启真的能解决很多问题。</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;  中午增加评论功能的时候，突然发现我的shh连不到GitHub了！！！试了很多个方法，最终找到一个有用的，在此存一下。&lt;br&gt;  &lt;a href=&quot;https://blog.csdn.net/hjy_mysql/article/details/131596257&quot;&gt;端口修</summary>
-      
-    
-    
-    
-    <category term="一些教程" scheme="https://yyyluan.github.io/categories/%E4%B8%80%E4%BA%9B%E6%95%99%E7%A8%8B/"/>
-    
-    
-    <category term="无用知识" scheme="https://yyyluan.github.io/tags/%E6%97%A0%E7%94%A8%E7%9F%A5%E8%AF%86/"/>
     
   </entry>
   
